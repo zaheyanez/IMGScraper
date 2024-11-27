@@ -1,2 +1,2 @@
-# ImageScrapper
-Image Scrapper using python
+# IMGScrapper
+Image Scraper using python
